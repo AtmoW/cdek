@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+.points{
+    max-width: 500px;
+    max-height: 500px;
+    overflow-y: scroll;
+    
+}
